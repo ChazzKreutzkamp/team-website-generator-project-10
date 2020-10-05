@@ -8,10 +8,10 @@ This application is designed to help you create a team website, with cards for e
 
 Steps to use the application
 * Step One: Clone the repository to your computer.
-* Step Two: Utilizing the commandline make sure you run the code "npm install" as this project does utilizes both inquirer and jest.
-* Step Three: If all the previous steps have been conducted you can run "node index" in the command line and the application will then run. You can also run "npm run test" to run a test on all the object classes to ensure everything is working appropriately.
+* Step Two: Utilizing the commandline make sure you run the code "npm install" as this project does utilize both inquirer and jest.
+* Step Three: If all the previous steps have been conducted you can run "node app" in the command line and the application will then run. You can also run "npm run test" to run a test on all the object classes to ensure everything is working appropriately.
 * Step Four: The Code will give you some instruction, but ultimately, all you need to do from this point is answer the prompts (all prompts are required so you cannot leave a question blank, and yes, there is error handling to insure that you answer each question).
-* Step Five: You will come to a section prompting you between three options, if you no longer wish to add more engineers or interns, select the generate website option generate your team website.
+* Step Five: You will come to a section prompting you between three options, if you no longer wish to add more engineers or interns, select the generate website option to generate your team website.
 * Step Six: The index.html file for your website should be generated now and in the dist folder.
 
 ## Important Links:
