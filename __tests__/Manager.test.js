@@ -17,5 +17,5 @@ test('Tests if the get functions return the appropriate data', () => {
     expect(manager.getId()).toEqual(expect.stringContaining(manager.id.toString()));
     expect(manager.getEmail()).toEqual(expect.stringContaining(manager.email.toString()));
     expect(manager.getRole()).toEqual(expect.stringContaining(manager.role.toString()));
-    expect(manager.getOfficeNumber()).toEqual(expect.stringContaining(manager.office.toString()));
+    expect(manager.getOffice()).toEqual(expect.stringContaining(manager.office.toString()));
 });
